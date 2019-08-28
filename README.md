@@ -12,7 +12,7 @@ Project description - one or two paragraphs. The enemy is dark and creates major
   - [Testing](#testing)
   - [Contributing](#contributing)
 - [Modus Create](#modus-create)
-- [License](#license)
+- [Licensing](#licensing)
 
 # Getting Started
 
