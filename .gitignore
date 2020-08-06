@@ -20,7 +20,7 @@ node_modules
 *.sw*
 
 # Use either yarn.lock or package-lock.json
-# Uncomment one of them to mainain a single lockfile
+# Uncomment one of them to maintain a single lockfile
 # package-lock.json
 # yarn.lock
 
