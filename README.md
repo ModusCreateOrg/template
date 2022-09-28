@@ -44,7 +44,7 @@ export default amazing;
 
 ## Contributing
 
-{How can the community contribute}
+See [Contribution Guidelines](.github/CONTRIBUTING.md) and [Code of Conduct](.github/CODE_OF_CONDUCT.md).
 
 # Modus Create
 
